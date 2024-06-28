@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.banner img {
+  width: 960px;
+  height: 275px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+nav {
+  margin: 20px 0;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: blue;
+}
